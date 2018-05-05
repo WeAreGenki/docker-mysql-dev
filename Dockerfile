@@ -1,6 +1,6 @@
 # MySQL container for local development
 
-FROM mysql:5.7@sha256:e3ce1b609c9275ed24afb3465a9dd73cce38385e64c94755edd5e596a5c1bc8c
+FROM mysql:5.7@sha256:f030e84582d939d313fe2ef469b5c65ffd0f7dff3b4b98e6ec9ae2dccd83dcdf
 LABEL MAINTAINER="Max Milton <max@wearegenki.com>"
 
 # Allow external access
